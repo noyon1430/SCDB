@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SchoolOfCareerDevelopmentBangladesh</string>
+    <string name="desc">Image</string>
+    <string name="CV">CV
+    </string>
+    <string name="dailyEng">Daily English</string>
+    <string name="ELibrary">E-Library</string>
+    <string name="ModelTest">Model Test</string>
+    <string name="Blog">Blog</string>
+    <string name="Onlinecourses">Online Courses</string>
+    <string name="aboutus">About Us</string>
+    <string name="ourservices">Our Services</string>
+    <string name="contactus">Contact Us</string>
+    <string name="findus">Find Us</string>
+    <string name="help">Help</string>
+    <string name="email">Email:  info@scdbbd.com</string>
+    <string name="contact">Contact:  01733405068</string>
+
+    <string name="edit_message">
+        School of Career Development, Bangladesh (SCDB) is a non-profit career development institute in Bangladesh.
+        Whatever your purpose, vision or dream, School of Career Development, Bangladesh helps you develop a plan to achieve it.
+        We opened our doors for everyone on 2 December 2016. SCDB is a multi-accredited training centre with a proud record of working
+        with students and professionals across Bangladesh. We seek to add value to the community,
+        maximizing the potential of our learners to help them achieve their professional dreams and aspirations.
+    School of Career Development Bangladesh (SCDB) comprises with Internsbd.com, SCDB Institute of Professional Development,
+        SCDB CV Maker, and SCDB Health. The SCDB has a large core highly qualified management consultants who liaise with administrative
+        and technical specialists. The team’s strength comes from a thorough knowledge of the Bangladeshi markets, its trends, and the
+        ability to look at students’ specific requirements and use that knowledge to ensure success. SCDB provides proven solutions that
+        can be quickly deployed and implemented in order to sustain performance and support the building of high-impact teams.</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDBFZbbKzfQ79It3JNJ4wHln3QGRTWt6QA</string>
+
+</resources>
